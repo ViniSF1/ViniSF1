@@ -1,32 +1,17 @@
-<h1 align="left">Hacker Ético / Linux Dev</h1>
+### Linux DEV 🐧
 
-###
+### ------ Redes e Tecnologias ------
 
-<p align="left">Sou o Vini, dev de Bash e gerenciador de redes TCP/IP, uso python para análise de dados e automações cotidianas, junto com o PowerBI para análise de dados</p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-da-silva-faria-8186a22b0/)
+[![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)]()
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
+[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 
-###
 
-<h2 align="left">O que eu esudo mais...</h2>
+### ------ Resumo do Perfil ------
 
-###
+![ViniSF1 GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniSF1&show_icons=true&theme=midnight-purple)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="bash logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdwNm9lbDVyYXVzbmVucDhxeWw2dWJ4MnRlcDc1bDkweXNpbm9xOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JmJMzlXOiI0dq/giphy.webp"  />
-
-###
+[![Linux](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc1Y2U3M2tkYTEwNXl2NWJqdmFrcGY0MGtldDNxcXJzaHRmZWoydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BlWF2vzpIPB0A/200.webp)]()
