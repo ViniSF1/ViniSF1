@@ -13,5 +13,3 @@
 ### ------ Resumo do Perfil ------
 
 ![ViniSF1 GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniSF1&show_icons=true&theme=midnight-purple)
-
-[![Linux](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc1Y2U3M2tkYTEwNXl2NWJqdmFrcGY0MGtldDNxcXJzaHRmZWoydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BlWF2vzpIPB0A/200.webp)]()
