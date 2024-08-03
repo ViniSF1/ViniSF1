@@ -1,4 +1,4 @@
-### Linux DEV 🐧
+### Analista de Dados / Fan de Linux 🐧
 
 ### ------ Redes ------
 
