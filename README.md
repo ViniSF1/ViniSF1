@@ -1,4 +1,4 @@
-### Analista de Dados / Fan de Linux 🐧
+### Analista de Dados / Fã de Linux 🐧
 
 ### ------ Redes ------
 
