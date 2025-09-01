@@ -1,4 +1,4 @@
-### Analista de Dados / Usuário de Linux 🐧
+### Analista de Dados 🐧
 
 ---
 
